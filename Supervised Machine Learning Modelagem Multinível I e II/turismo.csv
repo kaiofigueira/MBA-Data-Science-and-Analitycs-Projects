@@ -1,0 +1,1623 @@
+"pais","turismo","idade","filhos"
+"Franca","sim",68,2
+"Franca","sim",37,0
+"Franca","sim",45,3
+"Franca","sim",59,2
+"Franca","sim",29,0
+"Franca","sim",32,0
+"Franca","sim",63,2
+"Franca","sim",39,2
+"Franca","sim",43,1
+"Franca","sim",48,2
+"Franca","nao",39,0
+"Franca","sim",45,0
+"Franca","sim",39,1
+"Franca","sim",56,2
+"Franca","sim",49,2
+"Franca","nao",49,2
+"Franca","sim",38,0
+"Franca","nao",43,2
+"Franca","nao",42,1
+"Franca","sim",45,3
+"Franca","sim",43,0
+"Franca","sim",33,0
+"Franca","sim",52,2
+"Franca","nao",45,3
+"Franca","nao",38,1
+"Franca","sim",61,2
+"Franca","nao",41,0
+"Franca","nao",47,1
+"Franca","nao",38,1
+"Franca","nao",49,1
+"Franca","sim",44,3
+"Franca","nao",48,3
+"Franca","sim",41,3
+"Franca","sim",57,0
+"Franca","sim",51,2
+"Franca","sim",61,2
+"Franca","nao",51,2
+"Franca","sim",55,2
+"Franca","sim",42,3
+"Franca","nao",41,2
+"Franca","sim",64,2
+"Franca","sim",45,2
+"Franca","sim",35,1
+"Franca","sim",55,2
+"Franca","nao",40,1
+"Franca","nao",39,3
+"Franca","nao",45,2
+"Franca","sim",36,1
+"Franca","nao",52,2
+"Franca","nao",55,3
+"Franca","sim",33,0
+"Franca","nao",43,3
+"Franca","sim",45,0
+"Franca","nao",42,0
+"Franca","nao",37,3
+"Franca","nao",51,1
+"Franca","nao",39,3
+"Franca","sim",54,2
+"Franca","sim",41,1
+"Franca","sim",32,0
+"Franca","sim",66,2
+"Franca","sim",45,3
+"Franca","sim",46,3
+"Franca","sim",55,2
+"Franca","sim",38,2
+"Franca","sim",55,2
+"Franca","sim",53,2
+"Franca","sim",41,2
+"Franca","sim",32,0
+"Franca","sim",37,3
+"Franca","sim",33,0
+"Franca","sim",51,2
+"Franca","sim",63,3
+"Franca","sim",41,3
+"Franca","sim",52,3
+"Franca","sim",42,0
+"Franca","sim",39,0
+"Franca","sim",45,2
+"Franca","sim",51,2
+"Franca","sim",51,2
+"Franca","sim",59,2
+"Franca","sim",36,0
+"Franca","nao",51,2
+"Franca","sim",55,2
+"Franca","sim",55,2
+"Franca","nao",49,2
+"Franca","sim",38,0
+"Franca","sim",44,2
+"Franca","sim",55,2
+"Franca","nao",46,2
+"Franca","sim",50,0
+"Franca","sim",48,2
+"Franca","sim",41,3
+"Franca","nao",48,2
+"Franca","sim",57,1
+"Franca","nao",47,2
+"Franca","nao",61,2
+"Franca","nao",52,2
+"Franca","sim",39,1
+"Franca","sim",59,3
+"Franca","sim",47,2
+"Franca","sim",40,3
+"Franca","sim",51,2
+"Franca","sim",64,2
+"Franca","sim",50,1
+"Franca","sim",55,2
+"Franca","sim",51,2
+"Franca","sim",61,2
+"Franca","sim",37,0
+"Franca","sim",37,1
+"Franca","sim",47,0
+"Franca","sim",42,0
+"Franca","sim",52,3
+"Franca","sim",41,0
+"Franca","sim",51,2
+"Franca","sim",41,2
+"Franca","sim",54,3
+"Portugal","sim",41,2
+"Portugal","sim",45,3
+"Portugal","sim",33,0
+"Portugal","nao",41,3
+"Portugal","sim",69,2
+"Portugal","nao",51,2
+"Portugal","nao",47,1
+"Portugal","nao",55,3
+"Portugal","sim",39,3
+"Portugal","nao",52,2
+"Portugal","sim",45,2
+"Portugal","sim",45,3
+"Portugal","sim",37,0
+"Portugal","sim",56,2
+"Portugal","sim",35,0
+"Portugal","nao",43,3
+"Portugal","sim",29,0
+"Portugal","nao",46,3
+"Portugal","sim",47,3
+"Portugal","sim",39,1
+"Hungria","nao",42,2
+"Hungria","nao",37,0
+"Bulgaria","nao",43,1
+"Bulgaria","nao",47,2
+"Bulgaria","nao",42,3
+"Bulgaria","sim",41,0
+"Bulgaria","nao",51,2
+"Bulgaria","nao",52,3
+"Bulgaria","nao",56,2
+"Bulgaria","nao",45,2
+"Bulgaria","nao",34,1
+"Bulgaria","nao",40,1
+"Bulgaria","nao",45,2
+"Bulgaria","sim",45,3
+"Bulgaria","nao",42,1
+"Bulgaria","sim",40,0
+"Bulgaria","sim",65,2
+"Bulgaria","sim",62,2
+"Bulgaria","sim",56,2
+"Bulgaria","sim",45,2
+"Bulgaria","nao",50,1
+"Bulgaria","sim",49,2
+"Bulgaria","sim",61,2
+"Bulgaria","sim",67,2
+"Bulgaria","nao",47,2
+"Bulgaria","nao",54,2
+"Bulgaria","nao",47,2
+"Bulgaria","sim",36,0
+"Bulgaria","sim",47,3
+"Bulgaria","sim",33,1
+"Bulgaria","sim",37,3
+"Bulgaria","sim",37,0
+"Espanha","sim",31,0
+"Espanha","nao",46,2
+"Espanha","sim",43,1
+"Espanha","sim",47,2
+"Espanha","sim",31,0
+"Espanha","nao",45,3
+"Espanha","sim",39,0
+"Espanha","nao",33,0
+"Espanha","nao",38,1
+"Espanha","sim",64,2
+"Espanha","nao",34,0
+"Espanha","sim",38,0
+"Espanha","sim",40,0
+"Espanha","sim",59,2
+"Espanha","sim",44,0
+"Espanha","sim",47,2
+"Espanha","sim",63,2
+"Espanha","nao",57,2
+"Espanha","sim",34,0
+"Espanha","sim",45,2
+"Espanha","nao",56,2
+"Espanha","sim",46,2
+"Espanha","sim",35,0
+"Espanha","nao",42,3
+"Espanha","nao",63,2
+"Espanha","nao",50,2
+"Espanha","nao",41,3
+"Espanha","sim",39,2
+"Espanha","sim",35,3
+"Espanha","nao",39,3
+"Espanha","nao",40,0
+"Espanha","sim",30,0
+"Espanha","sim",46,2
+"Espanha","sim",41,2
+"Espanha","sim",69,2
+"Espanha","sim",65,3
+"Espanha","nao",43,2
+"Espanha","sim",56,2
+"Espanha","sim",62,2
+"Italia","nao",47,0
+"Italia","nao",44,1
+"Italia","nao",48,2
+"Italia","sim",56,3
+"Italia","nao",42,0
+"Italia","sim",52,2
+"Italia","nao",52,2
+"Italia","sim",39,3
+"Italia","sim",62,2
+"Italia","nao",30,0
+"Italia","sim",58,2
+"Italia","sim",45,2
+"Italia","sim",51,2
+"Italia","sim",39,0
+"Italia","nao",42,1
+"Italia","sim",38,1
+"Italia","sim",53,1
+"Italia","nao",50,2
+"Italia","nao",37,3
+"Italia","nao",45,3
+"Italia","sim",39,0
+"Italia","sim",44,3
+"Italia","sim",58,2
+"Italia","sim",54,2
+"Italia","sim",50,0
+"Italia","nao",37,1
+"Italia","sim",44,0
+"Italia","nao",43,3
+"Italia","sim",46,3
+"Italia","nao",58,2
+"Italia","sim",41,0
+"Italia","sim",39,0
+"Italia","sim",39,0
+"Italia","sim",34,0
+"Italia","sim",40,2
+"Italia","sim",37,0
+"Italia","sim",67,2
+"Italia","nao",40,1
+"Italia","sim",43,1
+"Italia","sim",37,1
+"Italia","nao",49,2
+"Italia","sim",35,0
+"Italia","sim",51,1
+"Italia","sim",45,1
+"Italia","sim",54,3
+"Italia","sim",37,0
+"Italia","sim",66,2
+"Italia","sim",54,2
+"Italia","sim",52,2
+"Italia","sim",46,1
+"Italia","sim",36,0
+"Italia","sim",41,3
+"Italia","sim",62,2
+"Italia","sim",68,3
+"Italia","sim",48,2
+"Italia","sim",59,2
+"Italia","sim",42,2
+"Italia","sim",38,2
+"Italia","nao",46,3
+"Italia","nao",50,2
+"Italia","sim",39,1
+"Italia","nao",43,2
+"Italia","sim",61,2
+"Italia","nao",55,2
+"Italia","sim",37,0
+"Holanda","sim",44,2
+"Holanda","sim",39,1
+"Holanda","sim",40,1
+"Holanda","sim",30,0
+"Holanda","sim",42,2
+"Holanda","sim",34,0
+"Holanda","nao",53,2
+"Holanda","sim",61,2
+"Holanda","nao",42,0
+"Holanda","sim",36,1
+"Holanda","sim",43,2
+"Holanda","sim",48,1
+"Holanda","nao",49,2
+"Holanda","sim",49,2
+"Holanda","nao",40,1
+"Holanda","sim",49,3
+"Holanda","sim",39,0
+"Holanda","nao",35,0
+"Belgica","nao",32,0
+"Belgica","nao",43,3
+"Belgica","sim",67,0
+"Belgica","sim",53,2
+"Belgica","nao",43,3
+"Belgica","sim",36,0
+"Belgica","sim",38,1
+"Belgica","sim",61,2
+"Belgica","nao",36,1
+"Belgica","sim",32,0
+"Belgica","nao",58,2
+"Belgica","sim",51,1
+"Belgica","nao",47,2
+"Belgica","nao",39,1
+"Belgica","nao",56,2
+"Belgica","sim",49,3
+"Belgica","nao",41,1
+"Belgica","sim",46,2
+"Belgica","sim",40,0
+"Belgica","nao",37,1
+"Belgica","sim",37,0
+"Belgica","nao",70,2
+"Belgica","sim",37,3
+"Belgica","sim",37,3
+"Belgica","nao",70,2
+"Belgica","nao",57,2
+"Belgica","sim",33,1
+"Belgica","sim",44,0
+"Belgica","sim",62,2
+"Belgica","nao",45,3
+"Belgica","sim",64,2
+"Belgica","sim",55,1
+"Belgica","sim",31,0
+"Belgica","sim",42,1
+"Belgica","sim",37,0
+"Belgica","sim",36,0
+"Belgica","sim",44,2
+"Austria","nao",57,2
+"Austria","nao",45,3
+"Austria","sim",61,2
+"Austria","sim",47,3
+"Austria","nao",44,2
+"Austria","sim",39,2
+"Austria","nao",37,1
+"Austria","sim",48,2
+"Austria","nao",48,3
+"Austria","sim",32,0
+"Austria","sim",54,2
+"Austria","sim",43,3
+"Austria","sim",43,1
+"Austria","nao",56,2
+"Austria","sim",37,3
+"Austria","sim",58,2
+"Austria","sim",40,2
+"Austria","sim",37,0
+"Austria","sim",30,0
+"Austria","sim",34,1
+"Austria","nao",40,3
+"Austria","sim",54,2
+"Austria","sim",58,2
+"Dinamarca","sim",64,3
+"Dinamarca","sim",39,0
+"Dinamarca","sim",40,1
+"Dinamarca","sim",54,2
+"Dinamarca","sim",52,2
+"Dinamarca","sim",59,0
+"Dinamarca","sim",61,2
+"Dinamarca","nao",48,1
+"Dinamarca","sim",61,2
+"Dinamarca","sim",65,3
+"Dinamarca","sim",56,0
+"Dinamarca","sim",35,0
+"Dinamarca","sim",34,0
+"Suecia","sim",40,0
+"Suecia","sim",42,0
+"Suecia","sim",42,1
+"Suecia","sim",69,1
+"Suecia","sim",36,0
+"Suecia","sim",33,0
+"Suecia","sim",30,0
+"Suecia","sim",52,0
+"Suecia","sim",34,0
+"Suecia","sim",67,2
+"Suecia","sim",46,0
+"Suecia","sim",45,1
+"Suecia","sim",47,1
+"Suecia","sim",49,1
+"Suecia","sim",37,0
+"Suecia","sim",40,3
+"Suecia","sim",48,2
+"Suecia","sim",42,1
+"Suecia","sim",42,0
+"Suecia","sim",43,0
+"Suecia","sim",68,2
+"Croacia","nao",59,2
+"Croacia","sim",62,2
+"Croacia","sim",43,3
+"Croacia","nao",55,0
+"Croacia","sim",45,2
+"Croacia","sim",68,2
+"Croacia","nao",57,2
+"Croacia","sim",43,1
+"Croacia","sim",70,2
+"Croacia","sim",50,2
+"Croacia","sim",49,0
+"Croacia","sim",52,2
+"Croacia","nao",39,0
+"Croacia","sim",55,2
+"Croacia","nao",35,0
+"Croacia","sim",43,2
+"Croacia","sim",52,2
+"Croacia","sim",42,3
+"Croacia","nao",43,1
+"Croacia","sim",49,2
+"Croacia","nao",61,2
+"Croacia","sim",53,2
+"Croacia","nao",55,2
+"Croacia","sim",54,2
+"Croacia","nao",60,2
+"Croacia","sim",40,3
+"Croacia","sim",41,3
+"Croacia","nao",54,2
+"Croacia","sim",39,0
+"Polonia","sim",57,2
+"Polonia","sim",31,0
+"Polonia","nao",51,2
+"Polonia","nao",43,0
+"Polonia","sim",36,1
+"Polonia","nao",46,1
+"Polonia","sim",39,0
+"Polonia","sim",41,0
+"Polonia","sim",48,2
+"Polonia","sim",65,2
+"Polonia","nao",49,2
+"Polonia","nao",44,2
+"Polonia","sim",44,0
+"Polonia","sim",63,2
+"Polonia","sim",47,1
+"Polonia","nao",42,3
+"Polonia","sim",54,0
+"Polonia","sim",39,0
+"Polonia","sim",50,2
+"Polonia","nao",46,2
+"Polonia","sim",60,0
+"Polonia","nao",47,2
+"Polonia","nao",60,2
+"Polonia","nao",43,1
+"Grecia","sim",34,0
+"Grecia","nao",38,0
+"Grecia","sim",40,1
+"Grecia","sim",38,1
+"Grecia","nao",38,0
+"Grecia","sim",48,1
+"Grecia","sim",50,0
+"Grecia","sim",46,0
+"Grecia","sim",44,1
+"Grecia","nao",38,0
+"Grecia","nao",41,3
+"Grecia","sim",48,2
+"Grecia","nao",49,1
+"Grecia","nao",35,0
+"Grecia","nao",41,1
+"Grecia","sim",40,0
+"Grecia","nao",61,2
+"Grecia","sim",42,1
+"Grecia","nao",47,2
+"Grecia","sim",37,0
+"Grecia","sim",37,0
+"Grecia","nao",34,0
+"Grecia","sim",58,2
+"Grecia","sim",35,0
+"Grecia","sim",39,3
+"Grecia","nao",39,0
+"Grecia","nao",65,2
+"Grecia","nao",67,2
+"Grecia","nao",56,2
+"Grecia","nao",64,2
+"Grecia","nao",31,0
+"Grecia","nao",48,2
+"Grecia","nao",45,1
+"Grecia","nao",36,0
+"Grecia","nao",48,3
+"Grecia","nao",39,3
+"Grecia","nao",41,2
+"Grecia","nao",48,3
+"Grecia","nao",52,2
+"Grecia","sim",48,2
+"Grecia","nao",54,2
+"Grecia","nao",51,2
+"Grecia","nao",29,0
+"Grecia","nao",30,0
+"Grecia","nao",56,2
+"Grecia","sim",46,0
+"Grecia","sim",42,0
+"Grecia","sim",60,2
+"Grecia","nao",33,0
+"Grecia","nao",59,2
+"Grecia","nao",31,0
+"Grecia","sim",45,2
+"Grecia","sim",38,0
+"Grecia","nao",37,0
+"Grecia","nao",51,2
+"Grecia","nao",49,2
+"Grecia","nao",52,2
+"Grecia","sim",40,1
+"Grecia","sim",42,0
+"Grecia","nao",50,3
+"Grecia","nao",39,0
+"Grecia","sim",54,1
+"Grecia","nao",41,3
+"Grecia","nao",44,1
+"Grecia","sim",36,1
+"Grecia","nao",44,3
+"Grecia","nao",62,2
+"Grecia","nao",42,3
+"Grecia","sim",60,2
+"Grecia","sim",40,1
+"Grecia","nao",47,3
+"Grecia","nao",45,1
+"Grecia","nao",42,1
+"Grecia","nao",45,2
+"Grecia","nao",41,1
+"Grecia","nao",61,2
+"Grecia","nao",47,0
+"Grecia","nao",52,2
+"Grecia","nao",49,3
+"Grecia","sim",49,0
+"Grecia","nao",38,0
+"Grecia","sim",66,3
+"Grecia","nao",58,2
+"Grecia","nao",35,0
+"Grecia","nao",59,2
+"Grecia","nao",63,2
+"Grecia","nao",40,1
+"Grecia","sim",37,0
+"Grecia","nao",46,1
+"Grecia","nao",40,1
+"Grecia","nao",45,3
+"Grecia","nao",35,0
+"Grecia","sim",45,3
+"Grecia","nao",35,0
+"Grecia","nao",44,0
+"Grecia","sim",40,0
+"Grecia","nao",41,0
+"Grecia","nao",34,1
+"Grecia","sim",47,3
+"Grecia","nao",53,2
+"Grecia","nao",48,3
+"Grecia","nao",47,1
+"Grecia","nao",38,1
+"Grecia","sim",37,3
+"Grecia","sim",54,3
+"Grecia","sim",38,1
+"Grecia","sim",44,1
+"Grecia","sim",42,2
+"Grecia","nao",61,2
+"Grecia","sim",67,2
+"Grecia","nao",30,0
+"Grecia","sim",63,2
+"Grecia","nao",44,2
+"Grecia","sim",30,0
+"Grecia","sim",33,0
+"Grecia","sim",44,2
+"Grecia","sim",41,1
+"Grecia","nao",64,2
+"Russia","nao",60,2
+"Russia","sim",34,0
+"Russia","sim",51,2
+"Russia","sim",47,2
+"Russia","nao",43,2
+"Russia","sim",65,2
+"Russia","sim",47,1
+"Russia","nao",44,0
+"Russia","nao",45,3
+"Russia","sim",35,0
+"Russia","sim",53,3
+"Russia","sim",51,1
+"Russia","nao",54,2
+"Russia","sim",40,1
+"Russia","sim",46,0
+"Russia","sim",42,0
+"Russia","sim",34,0
+"Russia","nao",42,1
+"Russia","sim",42,1
+"Russia","sim",35,0
+"Russia","nao",44,3
+"Russia","nao",41,1
+"Lituania","nao",49,3
+"Lituania","nao",36,0
+"Lituania","sim",34,0
+"Lituania","sim",33,0
+"Lituania","nao",35,0
+"Lituania","sim",36,0
+"Lituania","nao",38,0
+"Lituania","nao",54,3
+"Lituania","nao",62,3
+"Lituania","nao",53,3
+"Lituania","sim",55,2
+"Lituania","nao",32,1
+"Lituania","sim",37,0
+"Lituania","sim",32,0
+"Lituania","sim",44,1
+"Lituania","nao",56,2
+"Lituania","sim",35,0
+"Lituania","sim",62,3
+"Lituania","nao",40,0
+"Lituania","nao",36,1
+"Suica","sim",37,0
+"Suica","sim",37,0
+"Suica","nao",42,2
+"Suica","nao",55,2
+"Suica","nao",55,2
+"Suica","sim",42,1
+"Suica","sim",39,1
+"Suica","sim",64,2
+"Suica","sim",45,0
+"Suica","sim",36,0
+"Suica","sim",41,2
+"Suica","sim",46,3
+"Suica","sim",36,0
+"Suica","sim",50,0
+"Suica","nao",52,2
+"Suica","sim",52,2
+"Suica","nao",40,2
+"Suica","sim",47,2
+"Suica","sim",50,2
+"Suica","nao",47,3
+"Suica","sim",45,2
+"Suica","nao",48,2
+"Suica","sim",57,2
+"Suica","sim",53,2
+"Escocia","sim",45,0
+"Escocia","nao",41,1
+"Escocia","sim",44,3
+"Escocia","sim",42,3
+"Escocia","sim",34,0
+"Escocia","nao",50,2
+"Escocia","sim",39,0
+"Escocia","sim",33,0
+"Escocia","nao",46,3
+"Escocia","nao",66,2
+"Escocia","sim",40,0
+"Escocia","nao",35,0
+"Escocia","nao",41,0
+"Escocia","nao",57,2
+"Escocia","sim",31,0
+"Escocia","nao",38,1
+"Escocia","sim",34,0
+"Escocia","sim",41,1
+"Escocia","sim",35,0
+"Escocia","nao",31,0
+"Escocia","nao",47,2
+"Escocia","sim",47,3
+"Escocia","sim",33,0
+"Escocia","sim",39,0
+"Escocia","sim",60,2
+"Escocia","nao",39,2
+"Escocia","sim",57,2
+"Escocia","sim",64,2
+"Escocia","nao",44,3
+"Escocia","nao",52,2
+"Escocia","sim",58,2
+"Escocia","sim",67,3
+"Escocia","sim",46,3
+"Escocia","sim",52,2
+"Escocia","sim",50,0
+"Escocia","nao",31,1
+"Escocia","sim",48,2
+"Escocia","sim",49,2
+"Escocia","sim",64,0
+"Escocia","sim",42,3
+"Escocia","sim",39,3
+"Escocia","sim",50,2
+"Escocia","nao",43,1
+"Escocia","sim",41,0
+"Escocia","sim",52,2
+"Escocia","sim",63,2
+"Escocia","nao",35,0
+"Irlanda","sim",45,0
+"Irlanda","nao",39,1
+"Irlanda","nao",45,2
+"Irlanda","nao",36,0
+"Irlanda","sim",67,3
+"Irlanda","nao",45,2
+"Irlanda","nao",48,2
+"Irlanda","sim",42,0
+"Irlanda","sim",54,2
+"Irlanda","sim",56,2
+"Irlanda","sim",62,1
+"Irlanda","sim",55,1
+"Irlanda","sim",34,0
+"Irlanda","sim",47,0
+"Irlanda","sim",43,1
+"Irlanda","nao",50,0
+"Irlanda","sim",47,0
+"Irlanda","sim",38,0
+"Irlanda","nao",50,2
+"Irlanda","nao",53,1
+"Irlanda","nao",50,2
+"Irlanda","sim",41,1
+"Irlanda","sim",38,2
+"Irlanda","sim",50,2
+"Irlanda","nao",60,2
+"Irlanda","sim",54,2
+"Servia","sim",44,3
+"Servia","sim",47,3
+"Servia","nao",32,0
+"Servia","nao",46,3
+"Servia","sim",64,2
+"Servia","nao",33,0
+"Servia","nao",37,0
+"Servia","sim",43,3
+"Servia","sim",54,2
+"Servia","sim",38,0
+"Servia","sim",35,0
+"Servia","sim",57,0
+"Servia","sim",33,0
+"Servia","nao",57,2
+"Servia","nao",44,2
+"Montenegro","sim",67,2
+"Montenegro","sim",62,2
+"Montenegro","nao",31,0
+"Montenegro","sim",33,0
+"Montenegro","sim",41,2
+"Montenegro","sim",64,2
+"Montenegro","sim",60,2
+"Montenegro","sim",38,1
+"Montenegro","sim",53,3
+"Montenegro","nao",50,0
+"Montenegro","sim",39,1
+"Montenegro","nao",41,3
+"Montenegro","sim",45,3
+"Montenegro","nao",39,1
+"Montenegro","nao",48,0
+"Montenegro","nao",44,1
+"Montenegro","nao",40,0
+"Montenegro","sim",37,0
+"Finlandia","sim",55,1
+"Finlandia","nao",45,3
+"Finlandia","sim",67,0
+"Finlandia","sim",43,2
+"Finlandia","sim",39,0
+"Finlandia","sim",40,2
+"Finlandia","sim",61,2
+"Finlandia","nao",44,1
+"Finlandia","sim",41,3
+"Finlandia","sim",51,3
+"Finlandia","sim",39,1
+"Finlandia","sim",47,3
+"Finlandia","sim",51,2
+"Finlandia","sim",34,0
+"Finlandia","sim",60,2
+"Finlandia","sim",50,2
+"Finlandia","sim",46,2
+"Finlandia","sim",46,2
+"Finlandia","nao",45,3
+"Finlandia","nao",44,1
+"Alemanha","sim",41,3
+"Alemanha","sim",42,0
+"Alemanha","nao",49,3
+"Alemanha","sim",43,3
+"Alemanha","sim",64,2
+"Alemanha","sim",45,2
+"Alemanha","sim",41,3
+"Alemanha","sim",55,1
+"Alemanha","nao",59,2
+"Alemanha","sim",38,0
+"Alemanha","sim",54,2
+"Alemanha","nao",53,2
+"Alemanha","sim",35,0
+"Alemanha","nao",56,3
+"Alemanha","sim",59,2
+"Noruega","sim",37,0
+"Noruega","sim",47,2
+"Noruega","sim",38,1
+"Noruega","sim",60,2
+"Noruega","sim",37,0
+"Noruega","sim",34,0
+"Noruega","sim",56,2
+"Noruega","sim",56,2
+"Noruega","sim",55,2
+"Noruega","sim",56,0
+"Noruega","nao",52,2
+"Noruega","sim",34,0
+"Noruega","sim",43,1
+"Noruega","sim",64,2
+"Romenia","sim",35,0
+"Romenia","nao",42,3
+"Romenia","sim",44,0
+"Romenia","nao",50,2
+"Romenia","sim",49,0
+"Romenia","nao",57,1
+"Romenia","nao",57,2
+"Romenia","nao",42,1
+"Romenia","sim",45,2
+"Romenia","sim",48,0
+"Romenia","nao",49,2
+"Romenia","sim",34,0
+"Romenia","sim",36,0
+"Romenia","nao",54,2
+"Romenia","sim",34,0
+"Romenia","sim",33,0
+"Romenia","sim",51,1
+"Romenia","nao",40,1
+"Romenia","nao",64,2
+"Romenia","sim",36,1
+"Romenia","sim",44,2
+"Romenia","nao",43,1
+"Romenia","nao",34,1
+"Romenia","nao",53,3
+"Romenia","sim",31,0
+"Romenia","sim",51,2
+"Romenia","sim",50,2
+"Romenia","sim",45,2
+"Romenia","sim",38,0
+"Romenia","nao",50,2
+"Romenia","nao",49,2
+"Romenia","sim",45,3
+"Romenia","nao",50,2
+"Romenia","nao",32,1
+"Romenia","nao",41,2
+"Romenia","sim",47,2
+"Romenia","nao",48,3
+"Romenia","sim",31,0
+"Romenia","sim",40,3
+"Romenia","sim",38,1
+"Romenia","sim",41,0
+"Romenia","nao",49,3
+"Romenia","nao",56,2
+"Romenia","sim",52,3
+"Romenia","nao",56,2
+"Romenia","sim",31,0
+"Romenia","nao",52,2
+"Romenia","sim",55,2
+"Romenia","nao",42,1
+"Romenia","nao",43,2
+"Romenia","nao",44,2
+"Romenia","sim",37,1
+"Romenia","sim",45,1
+"Romenia","nao",64,2
+"Romenia","sim",45,0
+"Romenia","nao",37,1
+"Romenia","nao",45,2
+"Romenia","sim",46,3
+"Romenia","sim",61,2
+"Romenia","sim",48,1
+"Romenia","sim",31,0
+"Romenia","sim",38,1
+"Romenia","sim",47,3
+"Romenia","nao",48,2
+"Romenia","nao",51,2
+"Romenia","sim",30,0
+"Romenia","sim",49,2
+"Mexico","nao",52,2
+"Mexico","sim",54,2
+"Mexico","sim",47,2
+"Mexico","sim",52,2
+"Mexico","sim",37,1
+"Mexico","sim",41,1
+"Mexico","sim",41,0
+"Mexico","nao",56,3
+"Mexico","sim",39,1
+"Mexico","nao",44,1
+"Mexico","sim",66,3
+"Mexico","nao",52,3
+"Mexico","nao",45,3
+"Australia","sim",49,2
+"Australia","sim",40,0
+"Australia","sim",50,2
+"Australia","nao",39,0
+"Australia","nao",57,2
+"Australia","sim",40,1
+"Australia","sim",35,0
+"Australia","sim",61,2
+"Australia","sim",60,2
+"Australia","sim",50,1
+"Australia","sim",65,2
+"Australia","sim",69,2
+"Australia","sim",49,3
+"Australia","sim",61,2
+"Australia","nao",38,0
+"Australia","sim",64,2
+"Australia","sim",45,0
+"Australia","sim",32,0
+"Australia","sim",33,0
+"Australia","sim",35,0
+"Australia","sim",42,0
+"Australia","nao",56,3
+"Australia","nao",59,2
+"Australia","sim",40,1
+"Australia","sim",38,0
+"Australia","sim",45,3
+"Australia","sim",68,2
+"Australia","nao",41,0
+"Australia","nao",45,2
+"Australia","sim",34,0
+"Australia","sim",34,0
+"Australia","nao",44,3
+"Australia","sim",53,2
+"Australia","sim",41,1
+"Australia","sim",35,0
+"Australia","sim",38,1
+"Australia","sim",55,1
+"Australia","sim",39,0
+"Australia","sim",58,2
+"Australia","sim",59,2
+"Australia","sim",56,2
+"Australia","sim",64,2
+"Australia","sim",62,2
+"Australia","sim",50,2
+"Canada","sim",57,2
+"Canada","sim",42,2
+"Canada","sim",58,2
+"Canada","nao",50,2
+"Canada","nao",34,1
+"Canada","nao",44,3
+"Canada","sim",42,1
+"Canada","sim",61,2
+"Canada","nao",59,2
+"Canada","sim",66,2
+"Canada","nao",53,2
+"Canada","nao",41,2
+"Canada","sim",58,2
+"Canada","nao",52,2
+"Canada","sim",66,2
+"Canada","sim",35,0
+"Canada","nao",31,0
+"Canada","sim",68,2
+"Canada","sim",38,0
+"Canada","sim",50,3
+"Canada","nao",55,2
+"Canada","sim",38,0
+"Canada","sim",30,0
+"Canada","sim",40,0
+"Canada","sim",35,0
+"Canada","nao",51,2
+"Canada","sim",36,1
+"Canada","sim",42,0
+"Canada","sim",63,2
+"Canada","nao",48,2
+"Canada","nao",43,3
+"Canada","sim",49,2
+"Canada","sim",67,2
+"Canada","sim",47,1
+"Canada","sim",52,2
+"Canada","sim",70,2
+"Canada","sim",37,1
+"Canada","sim",37,1
+"Canada","sim",41,3
+"Canada","sim",37,0
+"Canada","sim",32,0
+"Canada","sim",54,3
+"Canada","sim",50,2
+"Canada","sim",56,2
+"Canada","sim",39,3
+"Canada","sim",30,0
+"Canada","sim",55,2
+"Canada","sim",49,1
+"Canada","sim",46,1
+"Nova Zelandia","sim",57,2
+"Nova Zelandia","sim",39,0
+"Nova Zelandia","nao",59,2
+"Nova Zelandia","nao",55,2
+"Nova Zelandia","sim",48,0
+"Nova Zelandia","nao",51,3
+"Nova Zelandia","nao",56,0
+"Nova Zelandia","sim",37,0
+"Nova Zelandia","sim",33,0
+"Nova Zelandia","sim",37,0
+"Nova Zelandia","sim",40,0
+"Nova Zelandia","sim",41,2
+"Nova Zelandia","sim",43,3
+"Nova Zelandia","sim",61,2
+"Nova Zelandia","sim",52,0
+"Nova Zelandia","sim",61,2
+"Nova Zelandia","sim",43,0
+"Nova Zelandia","sim",39,0
+"Nova Zelandia","nao",31,0
+"Nova Zelandia","sim",35,0
+"Nova Zelandia","nao",51,2
+"Nova Zelandia","sim",62,2
+"Nova Zelandia","sim",65,3
+"Nova Zelandia","sim",40,0
+"Nova Zelandia","sim",37,0
+"Nova Zelandia","nao",46,2
+"Nova Zelandia","sim",32,0
+"Nova Zelandia","nao",42,1
+"Nova Zelandia","sim",40,1
+"Nova Zelandia","sim",35,1
+"Nova Zelandia","sim",39,3
+"Nova Zelandia","nao",48,2
+"Peru","nao",47,1
+"Peru","nao",50,3
+"Peru","nao",46,1
+"Peru","nao",54,2
+"Peru","nao",54,2
+"Peru","sim",41,1
+"Peru","sim",44,3
+"Peru","nao",70,2
+"Peru","nao",43,3
+"Peru","nao",66,2
+"Peru","sim",39,0
+"Peru","nao",46,1
+"Peru","nao",40,1
+"Peru","nao",48,1
+"Peru","sim",33,0
+"Peru","nao",48,1
+"Peru","nao",55,2
+"Peru","sim",49,0
+"Peru","nao",40,1
+"Peru","sim",53,0
+"Peru","sim",40,0
+"Peru","nao",52,2
+"Peru","sim",38,0
+"Peru","nao",51,2
+"Peru","nao",40,2
+"Peru","nao",52,2
+"Peru","sim",37,0
+"Peru","nao",35,0
+"Peru","sim",38,1
+"Peru","sim",55,2
+"Peru","nao",49,1
+"Peru","sim",65,2
+"Peru","sim",38,0
+"Peru","nao",38,1
+"Peru","sim",32,0
+"Peru","nao",45,1
+"Peru","nao",52,2
+"Peru","sim",38,0
+"Peru","sim",35,1
+"Peru","nao",65,2
+"Peru","sim",44,1
+"Peru","sim",42,1
+"Peru","nao",56,2
+"Peru","nao",51,2
+"Peru","nao",51,2
+"Peru","nao",57,1
+"Peru","sim",39,0
+"Peru","sim",58,2
+"Peru","sim",34,0
+"Peru","sim",59,0
+"Peru","sim",50,3
+"Peru","sim",32,0
+"Peru","nao",53,1
+"Peru","sim",39,0
+"Peru","sim",51,3
+"Peru","sim",38,0
+"Peru","sim",32,0
+"Peru","sim",53,2
+"Peru","sim",60,2
+"Peru","nao",49,3
+"Peru","sim",42,1
+"Paraguai","sim",59,2
+"Paraguai","nao",37,0
+"Paraguai","nao",45,2
+"Paraguai","nao",45,2
+"Paraguai","sim",59,2
+"Paraguai","sim",34,0
+"Paraguai","sim",62,2
+"Paraguai","nao",62,2
+"Paraguai","nao",63,2
+"Paraguai","nao",35,3
+"Paraguai","sim",68,1
+"Paraguai","nao",47,1
+"Paraguai","sim",40,0
+"Paraguai","sim",33,0
+"Paraguai","nao",52,2
+"Paraguai","sim",44,1
+"Paraguai","nao",50,2
+"Paraguai","sim",46,2
+"Paraguai","sim",31,0
+"Paraguai","sim",36,0
+"Paraguai","sim",58,2
+"Paraguai","sim",60,2
+"Paraguai","nao",45,3
+"Paraguai","sim",55,2
+"Paraguai","sim",40,0
+"Paraguai","nao",41,1
+"Paraguai","nao",51,2
+"Paraguai","nao",50,1
+"Paraguai","sim",61,2
+"Paraguai","nao",36,0
+"Paraguai","nao",41,1
+"Paraguai","sim",50,2
+"Paraguai","sim",31,0
+"Japao","nao",57,2
+"Japao","sim",48,0
+"Japao","sim",45,2
+"Japao","sim",47,3
+"Japao","sim",47,3
+"Japao","sim",56,2
+"Japao","nao",46,2
+"Japao","sim",62,2
+"Japao","sim",51,2
+"Japao","sim",39,0
+"Japao","nao",40,2
+"Japao","sim",52,2
+"Japao","nao",44,2
+"Japao","sim",54,2
+"Japao","nao",32,0
+"Japao","sim",39,1
+"Japao","sim",45,2
+"Japao","sim",33,0
+"Japao","sim",49,3
+"Japao","sim",47,2
+"Japao","sim",49,2
+"Japao","sim",49,2
+"Japao","sim",33,1
+"Japao","sim",50,2
+"Colombia","sim",55,3
+"Colombia","nao",44,2
+"Colombia","nao",47,2
+"Colombia","nao",46,1
+"Colombia","sim",38,1
+"Colombia","nao",48,2
+"Colombia","nao",52,2
+"Colombia","sim",33,1
+"Colombia","nao",49,2
+"Colombia","sim",65,3
+"Colombia","sim",46,3
+"Colombia","sim",41,1
+"Colombia","sim",65,2
+"Colombia","sim",52,3
+"Venezuela","nao",56,3
+"Venezuela","sim",59,2
+"Venezuela","nao",40,0
+"Venezuela","sim",52,0
+"Venezuela","sim",57,2
+"Venezuela","nao",47,0
+"Venezuela","sim",57,3
+"Venezuela","sim",55,2
+"Venezuela","sim",42,2
+"Venezuela","nao",37,0
+"Venezuela","nao",52,1
+"Venezuela","nao",54,3
+"Venezuela","nao",46,2
+"Venezuela","nao",42,0
+"Venezuela","sim",55,3
+"Venezuela","nao",56,2
+"Venezuela","nao",48,2
+"Venezuela","nao",44,3
+"Venezuela","nao",51,2
+"Venezuela","sim",43,3
+"Venezuela","sim",41,1
+"Venezuela","nao",40,2
+"Venezuela","nao",52,2
+"Venezuela","nao",43,3
+"Venezuela","sim",52,1
+"Venezuela","nao",37,3
+"Venezuela","nao",54,2
+"Venezuela","sim",38,0
+"Venezuela","sim",59,2
+"Venezuela","nao",48,1
+"Venezuela","nao",41,2
+"Venezuela","nao",59,3
+"Venezuela","nao",55,2
+"Venezuela","nao",48,3
+"Venezuela","nao",62,2
+"Costa Rica","nao",49,0
+"Costa Rica","sim",37,1
+"Costa Rica","sim",42,0
+"Costa Rica","nao",33,1
+"Costa Rica","sim",37,0
+"Costa Rica","sim",33,1
+"Costa Rica","sim",35,3
+"Costa Rica","sim",49,3
+"Costa Rica","nao",39,0
+"Costa Rica","nao",38,2
+"Costa Rica","nao",49,2
+"Costa Rica","sim",62,2
+"Costa Rica","nao",46,1
+"Costa Rica","nao",48,1
+"Costa Rica","nao",47,0
+"Costa Rica","sim",54,1
+"Costa Rica","nao",44,3
+"Costa Rica","nao",54,3
+"Costa Rica","nao",48,2
+"Costa Rica","sim",30,0
+"Costa Rica","sim",48,2
+"Costa Rica","sim",42,3
+"Costa Rica","sim",52,2
+"Costa Rica","sim",44,3
+"Costa Rica","sim",29,1
+"Costa Rica","sim",43,2
+"Costa Rica","sim",54,2
+"Costa Rica","nao",67,2
+"Costa Rica","nao",48,2
+"Costa Rica","nao",43,0
+"Costa Rica","nao",46,2
+"Costa Rica","nao",47,1
+"Costa Rica","nao",38,2
+"Costa Rica","nao",48,3
+"Costa Rica","sim",51,3
+"Costa Rica","nao",50,2
+"Costa Rica","nao",57,3
+"Costa Rica","sim",40,1
+"Costa Rica","nao",54,3
+"Costa Rica","sim",34,0
+"Costa Rica","nao",42,3
+"Costa Rica","sim",56,2
+"Costa Rica","nao",61,2
+"Costa Rica","sim",50,2
+"Costa Rica","nao",60,2
+"Costa Rica","sim",40,1
+"Costa Rica","sim",65,2
+"Costa Rica","sim",63,0
+"Brasil","sim",56,2
+"Brasil","nao",46,3
+"Brasil","sim",38,0
+"Brasil","sim",36,0
+"Brasil","sim",47,3
+"Brasil","nao",46,3
+"Brasil","nao",45,3
+"Brasil","sim",54,1
+"Brasil","sim",66,2
+"Brasil","sim",49,2
+"Brasil","nao",49,2
+"Brasil","sim",48,2
+"Brasil","sim",52,2
+"Brasil","sim",33,1
+"Brasil","sim",40,1
+"Brasil","nao",55,1
+"Brasil","nao",44,1
+"Bolivia","nao",51,1
+"Bolivia","sim",48,2
+"Bolivia","nao",42,3
+"Bolivia","nao",69,2
+"Bolivia","nao",42,3
+"Bolivia","nao",45,3
+"Bolivia","nao",35,0
+"Bolivia","nao",55,2
+"Bolivia","sim",39,1
+"Bolivia","sim",29,0
+"Bolivia","sim",50,2
+"Bolivia","sim",59,2
+"Bolivia","sim",57,2
+"Argentina","nao",59,2
+"Argentina","sim",66,2
+"Argentina","nao",44,2
+"Argentina","nao",58,2
+"Argentina","nao",59,2
+"Argentina","sim",39,0
+"Argentina","sim",65,1
+"Argentina","sim",68,2
+"Argentina","sim",48,2
+"Argentina","sim",35,0
+"Argentina","sim",63,2
+"Argentina","sim",63,2
+"Argentina","sim",59,2
+"Argentina","sim",39,0
+"Panama","sim",50,2
+"Panama","nao",39,1
+"Panama","sim",57,2
+"Panama","sim",65,2
+"Panama","nao",46,0
+"Panama","nao",33,0
+"Panama","nao",42,3
+"Panama","nao",37,0
+"Panama","nao",43,1
+"Panama","nao",49,3
+"Panama","sim",39,0
+"Panama","nao",61,2
+"Panama","sim",49,2
+"Panama","sim",45,0
+"Panama","sim",32,0
+"Panama","nao",32,0
+"Panama","sim",56,2
+"Panama","sim",59,2
+"Panama","nao",55,3
+"Panama","sim",29,0
+"Panama","sim",39,2
+"Panama","nao",36,2
+"Panama","sim",38,0
+"Panama","sim",62,2
+"Panama","nao",47,0
+"Panama","nao",51,2
+"Uruguai","sim",52,3
+"Uruguai","sim",45,2
+"Uruguai","sim",51,2
+"Uruguai","sim",31,0
+"Uruguai","nao",40,0
+"Uruguai","nao",45,0
+"Uruguai","sim",38,0
+"Uruguai","nao",58,2
+"Uruguai","sim",38,0
+"Uruguai","nao",47,2
+"Uruguai","nao",45,1
+"Uruguai","sim",40,0
+"Uruguai","nao",48,0
+"Uruguai","nao",56,3
+"Uruguai","nao",51,2
+"Uruguai","sim",57,2
+"Uruguai","sim",56,2
+"Uruguai","nao",40,0
+"Uruguai","nao",54,2
+"Uruguai","sim",50,0
+"Uruguai","nao",43,1
+"Uruguai","nao",60,0
+"Uruguai","sim",42,1
+"Uruguai","sim",47,0
+"Uruguai","sim",36,0
+"Uruguai","nao",42,3
+"Uruguai","sim",56,1
+"Uruguai","sim",59,2
+"Uruguai","nao",43,1
+"Uruguai","sim",52,2
+"Uruguai","nao",51,2
+"Uruguai","nao",47,2
+"Uruguai","sim",70,2
+"Uruguai","nao",43,2
+"Uruguai","sim",38,0
+"Uruguai","sim",60,2
+"Uruguai","sim",59,2
+"Uruguai","nao",62,2
+"Uruguai","nao",36,0
+"Uruguai","sim",39,2
+"Uruguai","sim",57,2
+"Equador","sim",49,2
+"Equador","sim",53,2
+"Equador","sim",50,0
+"Equador","sim",49,1
+"Equador","nao",63,2
+"Equador","nao",55,2
+"Equador","nao",40,3
+"Equador","nao",42,0
+"Equador","nao",47,2
+"Equador","sim",45,2
+"Equador","sim",45,2
+"Equador","nao",50,2
+"Equador","sim",60,2
+"Equador","sim",39,3
+"Equador","nao",45,1
+"Equador","sim",54,1
+"Equador","nao",40,3
+"Equador","nao",47,0
+"Equador","sim",36,0
+"Equador","nao",48,3
+"Equador","sim",45,1
+"Equador","sim",48,3
+"Equador","nao",51,1
+"Equador","sim",43,1
+"Equador","nao",58,2
+"Equador","nao",34,1
+"Honduras","sim",36,1
+"Honduras","nao",47,1
+"Honduras","sim",32,0
+"Honduras","sim",46,1
+"Honduras","sim",42,1
+"Honduras","sim",34,0
+"Honduras","nao",55,3
+"Honduras","nao",60,2
+"Honduras","nao",51,1
+"Honduras","nao",60,2
+"Honduras","nao",46,1
+"Marrocos","sim",48,0
+"Marrocos","nao",42,0
+"Marrocos","nao",48,1
+"Marrocos","sim",47,3
+"Marrocos","sim",48,2
+"Marrocos","nao",48,3
+"Marrocos","sim",56,0
+"Marrocos","nao",52,3
+"Marrocos","nao",48,3
+"Marrocos","sim",48,1
+"Marrocos","nao",32,0
+"Marrocos","sim",68,2
+"Marrocos","nao",53,1
+"Marrocos","sim",35,3
+"Marrocos","nao",46,1
+"Marrocos","nao",61,2
+"Marrocos","nao",37,0
+"Marrocos","nao",45,1
+"Marrocos","nao",43,1
+"Marrocos","sim",47,0
+"Marrocos","sim",35,0
+"Marrocos","nao",44,1
+"Marrocos","sim",44,3
+"Marrocos","nao",37,0
+"Marrocos","nao",34,1
+"Marrocos","sim",37,0
+"Marrocos","nao",56,2
+"Marrocos","sim",36,1
+"Marrocos","sim",38,0
+"Marrocos","nao",40,2
+"Marrocos","nao",53,2
+"Marrocos","sim",63,2
+"Marrocos","sim",59,2
+"Marrocos","sim",43,0
+"Marrocos","nao",34,0
+"Marrocos","sim",32,0
+"Marrocos","sim",37,0
+"Marrocos","nao",57,2
+"Marrocos","nao",40,3
+"Marrocos","nao",39,3
+"Marrocos","sim",47,1
+"Marrocos","nao",67,2
+"Marrocos","sim",31,0
+"Marrocos","nao",61,2
+"Marrocos","sim",47,0
+"Chile","sim",40,0
+"Chile","sim",62,2
+"Chile","nao",64,2
+"Chile","sim",45,2
+"Chile","sim",55,2
+"Chile","sim",52,2
+"Chile","sim",45,0
+"Chile","sim",53,2
+"Chile","nao",52,3
+"Chile","sim",46,0
+"Chile","sim",59,2
+"Chile","sim",35,0
+"Chile","nao",41,1
+"Chile","sim",48,0
+"Chile","nao",52,3
+"Chile","sim",44,2
+"Chile","sim",35,0
+"Chile","sim",36,1
+"Chile","sim",43,1
+"Chile","sim",68,0
+"Chile","nao",64,3
+"Chile","sim",57,3
+"Chile","sim",35,0
+"Chile","sim",44,3
+"Chile","sim",38,1
+"Chile","nao",42,3
+"Chile","sim",42,2
+"Estados Unidos","nao",54,1
+"Estados Unidos","sim",38,0
+"Estados Unidos","nao",42,3
+"Estados Unidos","nao",41,3
+"Estados Unidos","nao",38,1
+"Estados Unidos","nao",40,1
+"Estados Unidos","sim",59,2
+"Estados Unidos","sim",34,1
+"Estados Unidos","sim",50,2
+"Estados Unidos","sim",57,0
+"Estados Unidos","sim",47,3
+"Estados Unidos","sim",47,3
+"Estados Unidos","sim",62,3
+"Estados Unidos","sim",63,2
+"Estados Unidos","sim",37,3
+"Estados Unidos","sim",44,1
+"Estados Unidos","nao",55,1
+"Estados Unidos","nao",52,1
+"Estados Unidos","sim",41,0
+"Estados Unidos","sim",43,1
+"Estados Unidos","sim",52,3
+"Estados Unidos","nao",43,2
+"Estados Unidos","sim",39,1
+"Estados Unidos","sim",30,0
+"Estados Unidos","sim",34,3
+"Estados Unidos","sim",42,1
+"Estados Unidos","nao",42,2
+"Estados Unidos","nao",45,2
+"Estados Unidos","sim",37,3
+"Estados Unidos","nao",59,2
+"Estados Unidos","sim",46,1
+"Estados Unidos","sim",39,3
+"Estados Unidos","nao",44,2
+"Estados Unidos","sim",47,0
+"Estados Unidos","sim",33,0
+"Estados Unidos","nao",34,1
+"Estados Unidos","sim",48,2
+"Estados Unidos","sim",49,2
+"Estados Unidos","sim",36,0
+"China","nao",64,2
+"China","nao",57,2
+"China","nao",53,1
+"China","nao",48,1
+"China","nao",34,1
+"China","sim",36,0
+"China","nao",46,2
+"China","sim",47,3
+"China","sim",37,0
+"China","nao",55,2
+"China","sim",48,3
+"China","nao",49,1
+"China","sim",56,2
+"China","nao",43,3
+"China","nao",39,1
+"China","sim",33,3
+"China","nao",41,3
+"China","sim",58,2
+"China","nao",47,3
+"China","sim",66,2
+"China","nao",50,3
+"China","nao",36,0
+"China","sim",39,2
+"China","nao",47,3
+"China","sim",34,0
+"China","nao",49,2
+"China","nao",45,1
+"China","sim",41,1
+"China","nao",54,2
+"China","sim",46,0
+"China","sim",48,2
+"China","nao",41,2
+"China","sim",39,0
+"China","sim",37,1
+"China","sim",57,2
+"China","nao",33,1
+"China","sim",37,0
+"China","sim",53,3
+"China","nao",40,2
+"China","nao",54,2
+"China","sim",42,0
+"China","nao",41,3
+"China","sim",62,2
+"China","nao",39,0
+"China","sim",61,2
+"China","nao",41,0
+"China","nao",33,0
+"China","nao",49,3
+"China","nao",39,2
+"China","nao",42,2
+"China","sim",48,1
+"China","nao",56,2
+"China","nao",37,0
+"China","nao",52,2
+"China","sim",60,2
+"China","nao",37,0
+"China","sim",52,2
+"China","nao",56,2
+"China","nao",45,1
+"China","nao",49,2
+"China","nao",38,1
+"China","nao",44,3
+"China","sim",68,2
+"China","nao",46,3
+"China","sim",48,3
+"China","sim",32,0
+"China","sim",41,2
+"China","nao",31,0
+"China","nao",67,3
+"China","nao",62,1
+"China","sim",38,0
+"China","nao",53,2
+"China","sim",42,0
+"China","sim",37,0
+"China","sim",68,2
+"China","sim",48,2
+"China","sim",33,1
+"China","sim",31,0
+"China","nao",47,3
+"China","sim",44,0
+"China","sim",48,3
+"China","nao",50,2
+"China","sim",43,2
+"China","sim",50,0
+"China","sim",53,2
+"China","sim",46,3
+"India","nao",43,3
+"India","nao",55,2
+"India","sim",47,0
+"India","sim",32,0
+"India","sim",36,0
+"India","nao",53,3
+"India","sim",59,2
+"India","nao",44,2
+"India","nao",51,2
+"India","sim",41,0
+"India","sim",54,3
+"India","nao",56,2
+"India","nao",52,0
+"India","sim",60,2
+"India","sim",66,1
+"Africa do Sul","nao",51,3
+"Africa do Sul","nao",43,3
+"Africa do Sul","sim",38,1
+"Africa do Sul","nao",52,2
+"Africa do Sul","sim",42,3
+"Africa do Sul","sim",61,0
+"Africa do Sul","sim",61,2
+"Africa do Sul","nao",40,1
+"Africa do Sul","nao",37,0
+"Africa do Sul","nao",46,2
+"Africa do Sul","nao",42,0
+"Africa do Sul","sim",57,2
+"Africa do Sul","sim",31,0
+"Africa do Sul","nao",42,1
+"Africa do Sul","sim",57,2
+"Africa do Sul","nao",40,0
+"Africa do Sul","nao",49,3
+"Africa do Sul","sim",37,1
+"Africa do Sul","sim",59,2
+"Africa do Sul","sim",34,0
+"Africa do Sul","sim",59,3
+"Africa do Sul","sim",32,0
+"Africa do Sul","nao",56,2
+"Africa do Sul","nao",47,3
+"Africa do Sul","sim",43,0
+"Africa do Sul","nao",46,2
+"Africa do Sul","nao",46,3
+"Africa do Sul","nao",56,2
+"Africa do Sul","nao",51,3
+"Africa do Sul","sim",67,2
+"Africa do Sul","sim",36,0
+"Africa do Sul","nao",45,1
+"Africa do Sul","nao",40,1
+"Africa do Sul","nao",34,0
+"Africa do Sul","nao",55,1
+"Africa do Sul","nao",57,1
+"Africa do Sul","sim",48,3
+"Africa do Sul","nao",41,1
+"Africa do Sul","sim",44,0
+"Africa do Sul","sim",36,0
+"Africa do Sul","sim",38,0
+"Africa do Sul","sim",44,1
+"Coreia do Sul","sim",30,0
+"Coreia do Sul","sim",34,0
+"Coreia do Sul","sim",35,0
+"Coreia do Sul","sim",45,2
+"Egito","nao",55,2
+"Egito","nao",51,2
+"Egito","nao",59,2
+"Egito","nao",31,0
+"Egito","nao",51,2
+"Egito","sim",50,2
+"Egito","sim",58,2
+"Egito","sim",41,0
+"Egito","nao",49,2
+"Egito","sim",47,3
+"Egito","nao",36,0
+"Egito","sim",37,0
+"Egito","sim",34,0
+"Egito","sim",36,0
+"Egito","sim",30,0
+"Egito","sim",56,3
+"Egito","nao",63,2
+"Egito","nao",44,2
+"Egito","sim",39,0

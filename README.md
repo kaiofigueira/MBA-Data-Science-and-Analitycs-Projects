@@ -5,12 +5,12 @@
 ## 📚 Conteúdo
 
 - 📊 Estatística
-- 📈 ~~Regressão Linear e Logística~~
-- 🧮 ~~Machine Learning (Supervisionado e Não Supervisionado)~~
-- 🔢 ~~Modelagem Preditiva~~
-- 🧹 ~~Pré-processamento de Dados~~
+- 📈 Regressão Linear e Logística
+- 🧮 Machine Learning (Supervisionado e Não Supervisionado)
+- 🔢 Modelagem Preditiva
+- 🧹 Pré-processamento de Dados
 - 🧠 ~~Deep Learning~~
-- 🗃️ ~~Banco de Dados e SQL~~
+- 🗃️ Banco de Dados e SQL
 - 🧰 Python para Data Science
 - 📦 Bibliotecas: Pandas, Scikit-learn, Matplotlib, etc.
 
@@ -18,7 +18,7 @@
 
 - Python 3.11.9
 - Jupyter Notebooks
-- Pandas, Numpy, Matplotlib, Scikit-learn, etc.
+- Pandas, Numpy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, etc.
 - SQL (PostgreSQL / MySQL)
 - Git & GitHub
 
